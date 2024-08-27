@@ -17,14 +17,14 @@
 
 ## 💼 **Habilidades Técnicas**
 
-- [![Control-M for UNIX](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux&logoColor=white)](#) Control-M for UNIX  
-- [![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM&logoColor=white)](#) ESP (mainframe e baixa plataforma)  
-- [![TWS for UNIX](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux&logoColor=white)](#) TWS for UNIX  
-- [![CA Workload](https://img.shields.io/badge/CA-Workload-red?style=flat-square&logo=Broadcom&logoColor=white)](#) CA Workload  
-- [![WebSphere Application Server](https://img.shields.io/badge/WebSphere-Application_Server-blue?style=flat-square&logo=IBM&logoColor=white)](#) WebSphere Application Server  
-- [![SAP](https://img.shields.io/badge/SAP-Enterprise-yellow?style=flat-square&logo=SAP&logoColor=white)](#) SAP  
-- [![Linux](https://img.shields.io/badge/Linux-OS-lightgrey?style=flat-square&logo=Linux&logoColor=white)](#) Linux  
-- [![Zo/S](https://img.shields.io/badge/Zo%2FS-Mainframe-darkblue?style=flat-square&logo=IBM&logoColor=white)](#) Zo/S  
+- [![Control-M for UNIX](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux&logoColor=white)](#)  
+- [![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM&logoColor=white)](#)
+- [![TWS for UNIX](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux&logoColor=white)](#)
+- [![CA Workload](https://img.shields.io/badge/CA-Workload-red?style=flat-square&logo=Broadcom&logoColor=white)](#) 
+- [![WebSphere Application Server](https://img.shields.io/badge/WebSphere-Application_Server-blue?style=flat-square&logo=IBM&logoColor=white)](#) 
+- [![SAP](https://img.shields.io/badge/SAP-Enterprise-yellow?style=flat-square&logo=SAP&logoColor=white)](#) 
+- [![Linux](https://img.shields.io/badge/Linux-OS-lightgrey?style=flat-square&logo=Linux&logoColor=white)](#) 
+- [![Zo/S](https://img.shields.io/badge/Zo%2FS-Mainframe-darkblue?style=flat-square&logo=IBM&logoColor=white)](#)  
 
 ## 🎓 **Formação Acadêmica**
 
