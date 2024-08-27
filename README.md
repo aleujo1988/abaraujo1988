@@ -1,10 +1,12 @@
 ## 🚀 **Sobre Mim**
 
 - **Nome:** Alexandre Bianchini de Araujo  
-- **Cargo Atual:** Service Integrated Leader na IBM Brazil / Kyndryl  
+- **Cargo Atual:** Analista de Suporte Computacional - TIVIT Tecnologia da Informação SA
 - **Experiência Profissional:**  
+  - **TIVIT Tecnologia da Informação SA**
+    - Cargo: Analista de Suporte Computacional (2024 - presente)  
   - **IBM Brazil / Kyndryl**  
-    - Cargo: Service Integrated Leader (2021 - presente)  
+    - Cargo: Service Integrated Leader (2021 - 2024)  
     - Cargo: Systems Specialist (2016 - 2021)  
   - **TIVIT Tecnologia da Informação SA**  
     - Cargo: IT Coordinator  
