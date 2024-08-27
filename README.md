@@ -17,8 +17,6 @@
 
 ## 💼 **Habilidades Técnicas**
 
-## 💼 **Habilidades Técnicas**
-
 - [![Control-M for UNIX](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux&logoColor=white)](#) Control-M for UNIX  
 - [![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM&logoColor=white)](#) ESP (mainframe e baixa plataforma)  
 - [![TWS for UNIX](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux&logoColor=white)](#) TWS for UNIX  
