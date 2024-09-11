@@ -51,5 +51,5 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5519971616086)](https://wa.me/5519971616086)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/alexandre_araujo)](https://t.me/Alez1n)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
-[![⭐ Meu Site](https://img.shields.io/badge/-⭐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
+[![🌐 Meu Site](https://img.shields.io/badge/-🌐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
 
