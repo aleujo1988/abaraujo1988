@@ -54,3 +54,4 @@
 [![🌐 Meu Site](https://img.shields.io/badge/-🌐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
 [![Steam](https://img.shields.io/badge/-🎮_Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199652366046/)
 [![Discord](https://img.shields.io/badge/-💬_Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QJHuqSkB)
+[![Spotify](https://img.shields.io/badge/-🎵_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)
