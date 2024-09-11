@@ -53,7 +53,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
 [![🌐 Meu Site](https://img.shields.io/badge/-🌐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
 
-## 🎉 **4FUN**
+## 🎉 **4 FUN**
 
 [![Steam](https://img.shields.io/badge/-🎮_Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199652366046/)
 [![Discord](https://img.shields.io/badge/-💬_Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QJHuqSkB)
