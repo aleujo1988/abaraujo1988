@@ -52,4 +52,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/alexandre_araujo)](https://t.me/Alez1n)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
 [![🌐 Meu Site](https://img.shields.io/badge/-🌐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
+[![Steam](https://img.shields.io/badge/-🎮_Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199652366046/)
+
 
